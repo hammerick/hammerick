@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... front end 
 - 🌱 I’m currently learning ...java, html , css, figma
 - 💞️ I’m looking to collaborate on ... web design  
-- 📫 How to reach me ...  +59174573410
+- 📫 How to reach me ...  +59171790618
 
 <!---
 hammerick/hammerick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
